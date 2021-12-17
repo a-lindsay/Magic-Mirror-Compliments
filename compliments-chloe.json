@@ -1,17 +1,24 @@
 {
     "morning" : [
-        "Du siehst aber gut aus heute !",
-        "Gut geschlafen ?",
-        "Moin, Moin...."
+        "Good morning, my love",
+        "Enjoy your day!",
+        "You're going to do great!",
+        "How was your sleep?",
+        "Coffee Time?"
     ],
     "afternoon" : [
-        "Ab Fussball spielen !",
-        "Lass uns auf den Abend vorbereiten....",
-        "Musik hören ?"
+        "Hello, beauty!",
+        "Looking great today!",
+        "You are making a difference!",
+        "You're more fun than bubble wrap!"
     ],
     "evening" : [
-        "Einen Cocktail ?",
-        "Wow, Du bist aber heiss heute...",
-        "Wollen wir heute abend weggehen ?"
+        "You made someone smile today, I know it.",
+        "I hope you had a great day!",
+        "How was your day?"
+    ],
+    "anytime": [
+        "Hey Sexy!",
+        "Hi my love"
     ]
 }
