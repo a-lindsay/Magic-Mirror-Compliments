@@ -1,0 +1,17 @@
+{
+    "morning" : [
+        "Du siehst aber gut aus heute !",
+        "Gut geschlafen ?",
+        "Moin, Moin...."
+    ],
+    "afternoon" : [
+        "Ab Fussball spielen !",
+        "Lass uns auf den Abend vorbereiten....",
+        "Musik hören ?"
+    ],
+    "evening" : [
+        "Einen Cocktail ?",
+        "Wow, Du bist aber heiss heute...",
+        "Wollen wir heute abend weggehen ?"
+    ]
+}
